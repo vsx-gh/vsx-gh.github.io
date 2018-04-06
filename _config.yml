@@ -1,0 +1,8 @@
+title: Jeff VanSickle Portfolio
+description: Projects, code, and other fun stuff
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
