@@ -11,4 +11,4 @@ Check out my repos [here](https://github.com/vsx-gh/)
 Responsibility for any and all content here is mine. Where this site makes use of others' templates, etc., I make proper attribution. I do the same for my code repos.
 
 ### Contact
-I am open to discussing opportunities for employment, collaboration, or just to chat. Though I am not the most active person on social media, you can find me on [Twitter](https://twitter.com/j_sickle) and [LinkedIn](https://www.linkedin.com/in/jeffreyvansickle).
+I am open to discussing opportunities for employment, collaboration, or just to chat. Though I am not the most active person on social media, you can find me on [LinkedIn](https://www.linkedin.com/in/jeffreyvansickle).
