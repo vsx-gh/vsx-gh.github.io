@@ -2,7 +2,7 @@ title: Jeff VanSickle Portfolio
 description: Projects, code, and other fun stuff
 google_analytics: 
 show_downloads: true
-theme: aigarsdz/brume
+remote_theme: benbalter/retlab
 
 gems:
   - jekyll-mentions
